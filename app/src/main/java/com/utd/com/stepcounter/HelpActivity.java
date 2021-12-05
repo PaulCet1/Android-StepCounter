@@ -1,4 +1,4 @@
-package tumblrr.utd.com.stepcounter;
+package com.utd.com.stepcounter;
 
 import android.content.Intent;
 import android.os.Bundle;

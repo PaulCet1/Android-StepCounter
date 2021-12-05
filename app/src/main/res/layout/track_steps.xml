@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorPeach"
-    tools:context="tumblrr.utd.com.stepcounter.TrackStepsActivity">
+    tools:context="com.utd.com.stepcounter.TrackStepsActivity">
 
     <com.jjoe64.graphview.GraphView
         android:id="@+id/graph"

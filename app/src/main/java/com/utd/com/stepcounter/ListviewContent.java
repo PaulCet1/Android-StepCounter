@@ -1,4 +1,4 @@
-package tumblrr.utd.com.stepcounter;
+package com.utd.com.stepcounter;
 
 /**
  * Created by Abhi on 4/7/2018.

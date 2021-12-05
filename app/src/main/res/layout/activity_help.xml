@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorPeach"
-    tools:context="tumblrr.utd.com.stepcounter.HelpActivity">
+    tools:context="com.utd.com.stepcounter.HelpActivity">
 
     <TextView
         android:id="@+id/App_help"

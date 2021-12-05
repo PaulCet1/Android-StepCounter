@@ -1,11 +1,8 @@
-package tumblrr.utd.com.stepcounter;
+package com.utd.com.stepcounter;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.os.Environment;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
-import android.widget.Button;
 import android.widget.ListView;
 
 import com.jjoe64.graphview.GraphView;
@@ -35,7 +32,6 @@ public class TrackStepsActivity extends AppCompatActivity {
 
     ListView listView;
     ArrayList<ListviewContent> listviewContents;
-    private static ListviewAdap adapter;
 
     //Reading/Writing the steps related history on to/from a local storage file
     public String path  = Environment.getExternalStorageDirectory().getAbsolutePath() + "/Step Counter";
@@ -108,7 +104,7 @@ public class TrackStepsActivity extends AppCompatActivity {
             listviewContents.add(new ListviewContent(str.split("\t")[0], str.split("\t")[1]+" steps", decimalFormat.format(distance).toString()+" feets",str.split("\t")[3],str.split("\t")[3]+ " mins"));
         }
 
-        adapter= new ListviewAdap(listviewContents,getApplicationContext());
+        ListviewAdap adapter = new ListviewAdap(listviewContents, getApplicationContext());
         listView.setAdapter(adapter);
     }
 }

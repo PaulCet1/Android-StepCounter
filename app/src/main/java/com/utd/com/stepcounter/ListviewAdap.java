@@ -1,4 +1,4 @@
-package tumblrr.utd.com.stepcounter;
+package com.utd.com.stepcounter;
 
 import android.content.Context;
 import android.view.LayoutInflater;

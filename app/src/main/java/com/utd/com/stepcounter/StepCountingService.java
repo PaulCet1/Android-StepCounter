@@ -1,19 +1,16 @@
-package tumblrr.utd.com.stepcounter;
+package com.utd.com.stepcounter;
 
-import android.app.PendingIntent;
+
 import android.app.Service;
 import android.content.Intent;
-import android.graphics.Color;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
-import android.os.Environment;
 import android.os.Handler;
 import android.os.IBinder;
 import android.util.Log;
 
-import java.io.File;
 
 /**
  * Created by Abhi on 4/8/2018.
