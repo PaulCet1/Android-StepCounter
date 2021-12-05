@@ -1,4 +1,4 @@
-package com.utd.com.stepcounter;
+package bozcet.utd.com.stepcounter;
 
 import android.Manifest;
 import android.content.Intent;
@@ -10,6 +10,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
+
+import com.utd.com.stepcounter.R;
 
 /*Application: StepCounter
 *

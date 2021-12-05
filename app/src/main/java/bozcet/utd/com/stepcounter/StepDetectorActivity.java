@@ -1,4 +1,4 @@
-package com.utd.com.stepcounter;
+package bozcet.utd.com.stepcounter;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -13,6 +13,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.utd.com.stepcounter.R;
 
 import java.io.File;
 import java.io.FileNotFoundException;

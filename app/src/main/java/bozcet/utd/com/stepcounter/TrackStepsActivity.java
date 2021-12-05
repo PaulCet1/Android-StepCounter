@@ -1,4 +1,4 @@
-package com.utd.com.stepcounter;
+package bozcet.utd.com.stepcounter;
 
 import android.os.Bundle;
 import android.os.Environment;
@@ -10,6 +10,7 @@ import com.jjoe64.graphview.GridLabelRenderer;
 import com.jjoe64.graphview.helper.DateAsXAxisLabelFormatter;
 import com.jjoe64.graphview.series.DataPoint;
 import com.jjoe64.graphview.series.LineGraphSeries;
+import com.utd.com.stepcounter.R;
 
 import java.io.BufferedReader;
 import java.io.File;

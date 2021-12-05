@@ -1,4 +1,4 @@
-package com.utd.com.stepcounter;
+package bozcet.utd.com.stepcounter;
 
 
 import android.app.Service;

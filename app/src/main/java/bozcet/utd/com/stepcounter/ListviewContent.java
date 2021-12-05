@@ -1,4 +1,4 @@
-package com.utd.com.stepcounter;
+package bozcet.utd.com.stepcounter;
 
 /**
  * Created by Abhi on 4/7/2018.
