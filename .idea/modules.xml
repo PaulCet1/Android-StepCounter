@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-StepCounter.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-StepCounter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-StepCounter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-StepCounter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-StepCounter123.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-StepCounter123.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-StepCounter123.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-StepCounter123.app.iml" />
     </modules>
   </component>
 </project>

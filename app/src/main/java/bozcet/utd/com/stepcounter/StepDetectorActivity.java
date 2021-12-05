@@ -14,7 +14,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.utd.com.stepcounter.R;
 
 import java.io.File;
 import java.io.FileNotFoundException;

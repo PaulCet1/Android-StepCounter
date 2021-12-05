@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.utd.com.stepcounter.R;
+
 
 import java.io.File;
 
