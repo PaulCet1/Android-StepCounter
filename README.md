@@ -1,4 +1,4 @@
 # Aplikacja Sport Activity
 
-Aotorzy : Piotr Bożek
+Autorzy : Piotr Bożek
           Paweł Cetnarowski
